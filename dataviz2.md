@@ -1,10 +1,10 @@
 # Assignment 2 Work 
 
-Visualization from OECD on government debt to GDP ratio: 
+# Visualization from OECD on government debt to GDP ratio: 
 <iframe src="https://data.oecd.org/chart/5Jtv" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5Jtv" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 
-Below is a Beeswarm Plot depciting government debt to GDP ratio. This visualization uses the same data featured above. The larger the circle, the bigger percentage a country's debt is to its GDP. The vertical axis lists countries alphabetically and the horizontal axis list years chronologically from 1995 to 2018. 
+Below is a # Beeswarm Plot depciting government debt to GDP ratio #. This visualization uses the same data featured above. The larger the circle, the bigger percentage a country's debt is to its GDP. The vertical axis lists countries alphabetically and the horizontal axis list years chronologically from 1995 to 2018. 
 
 
 
