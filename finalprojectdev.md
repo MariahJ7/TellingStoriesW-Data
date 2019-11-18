@@ -29,5 +29,5 @@ How does NYC meet or not meet these needs: I will use these data sets to look at
 Barriers to change: https://www.statista.com/statistics/733811/us-percentage-of-senior-smartphone-and-cell-phone-owners-by-age-group/, https://www.statista.com/statistics/709191/percentage-of-senior-internet-users-by-age-groups-in-the-us/
 
 # Method and Medium
-The story will be told on Shorthand. I like that platform for this work as its vivid, captures the audiences attention and can communicate a sequential story well. 
+The story will be told on Shorthand. I like that platform for this work as its vivid, captures the audiences attention and can communicate a sequential story well. I have several graphs that I can use directly from Statistica and others I will need to do more analysis on but in general, I feel that Shorthand will be a good place to display images and graphs within the story. 
 
