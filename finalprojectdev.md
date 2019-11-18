@@ -11,3 +11,15 @@ Project Structure
 4. How does NYC meet or not meet these needs:
 5. Barriers to change: I will share data that suggests that seniors are not as tech saavy which impacts their ability to take advantage of services within the city that have been created to handle convenience. They may also be limited by their income and the funding mechanisms (ex. Social Security and Medicaid) which dictate how they can spend their funds. 
 6. Ideas for future cities: 
+
+# Initial Sketches
+
+# The Data 
+I will be using several data sources to tell the story. Here are the data sources associated with the different parts of the assignment: 
+
+What do seniors want: https://www.statista.com/statistics/895216/valuable-services-features-for-seniors-north-america/, https://www.statista.com/statistics/895026/future-moving-plans-when-elderly-north-america-by-city/, https://www.statista.com/statistics/733846/us-senior-usage-social-media-by-age-group/
+How does NYC meet or not meet these needs: 
+Barriers to change: https://www.statista.com/statistics/733811/us-percentage-of-senior-smartphone-and-cell-phone-owners-by-age-group/, https://www.statista.com/statistics/709191/percentage-of-senior-internet-users-by-age-groups-in-the-us/
+
+# Method and Medium
+
