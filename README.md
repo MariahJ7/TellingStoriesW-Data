@@ -19,7 +19,7 @@ A graph designed in RAWGraphs for looking at The Economist's Big Mac Index over 
 
 # [Follow this link for Assignment 3 Work](/dataviz3.md)
 
-# [Follow this link for Final Project Material](/finalprojectdev1.md)
+# [Follow this link for Final Project Material](/finalprojectdev.md)
 
 #
 
