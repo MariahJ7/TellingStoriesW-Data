@@ -21,5 +21,5 @@ A graph designed in RAWGraphs for looking at The Economist's Big Mac Index over 
 
 # [Follow this link for Final Project Material](/finalprojectdev.md)
 
-#
+# [Follow this link for Final Project Part 2 Material](/finalprojectpart2.md)
 
