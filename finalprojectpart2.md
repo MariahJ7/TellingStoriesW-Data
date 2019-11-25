@@ -1,8 +1,8 @@
 # PART 2:
 # Wireframes / storyboard
-I used Balsamiq to create each Wireframe and the overall Storyboard. Here is a rending of it. Any Slides that have been ommitted from the modified drafts due to criqtiques are labeled as such. 
+I used Balsamiq to create each Wireframe and the overall Storyboard. Here is my second rending of it. 
 
-ARI INSERT WIREFRAME PDF YOU RECEIVED <a href="https://drive.google.com/file/d/1X9qInx29bvd1ezKmUGQ4NnP-LtFDQ7ST/view?usp=sharing/"
+<a href="https://drive.google.com/file/d/1X9qInx29bvd1ezKmUGQ4NnP-LtFDQ7ST/view">Second Draft</a>
 
 
 A larger graph currently featured in one of the wireframes within the storyboard. This was created in RAWGraphs using the data set from here: Welltower. (September 26, 2017). Most valued services for making life easier for elderly people in North America in 2017 [Graph]. In Statista. Retrieved November 25, 2019, from https://www-statista-com.proxy.library.cmu.edu/statistics/895216/valuable-services-features-for-seniors-north-america/ I will likely change the coloring when it is used in my final presentation.
@@ -23,5 +23,6 @@ For this portion of the assignment, I interviewed my sister and boyfriend. The i
  <a href="https://drive.google.com/uc?export=view&id=1EEKdTp6PBNV18LTfXC3Z7J8-3mPLVYpA"><img src="https://drive.google.com/uc?export=view&id=1EEKdTp6PBNV18LTfXC3Z7J8-3mPLVYpA" style="width: 2000px; max-width: 400%; height: auto" title="Click for the larger version." /> 
 
 # Revised Wireframes / storyboard
+This is my most up to date rending. Slides that have been omitted are at the end of the document with red X marks. 
 
-ARI PLEASE INSERT THE UPDATED PDF - NOT YET SENT.
+<a href="https://drive.google.com/file/d/1JxbDNvtMhDgrKKmpOd5FwcYw_W_30qMe/view">Third Draft</a>
