@@ -14,28 +14,15 @@ Interview Script:
 
 For this portion of the assignment, I interviewed my sister and boyfriend. The interviews focused on the following categories: 
 
-Title		- Optimizing resource availability to seniors in NYC 	
-Flow of Story	- Like inclusion of Maslow's Hierarchy of Needs. 	- SCR: Situation, Complication/ Conflict , Resolution	
-	- Used good terms within the chart. 	- 1st slide: set up story well 
-	- Like inclusion of private - public partnership	- 2nd slide: remove the hierarchy b/c doesn't advance story. Could consider how it gets incorporate to the flow. Maybe put it at the end
-	- Make sure the colors carry through	- New 2nd slide: find a graph on how seniors rate the different categories within NY.
-	- Consider changing the colors to shades	- 3rd slide: senior tech literacy is low -> missing link on how nyc is becoming increasingly tech reliant, or seniors have complaints about aging in place
-Scope 	- Like the map of the community centers and the focus on community centers	- Like topic and call to action	
-		
-Call to Action	- If involved in tech, look at how your local officials are partnering. 		
-	
-Completeness	- Consider the senior population included. 		
-	- Safety: getting into places like handicap accessibility.
-	- Make sure you don’t mention rental housing market and then ignore it. -> take a pic of each building
-Changes to particular pages	- Remove one community center suggestion 	- Title page: add in info about the concept of aging in place (maybe add a graph) 	
-	- How NYC measures up: distinguish that you are going to focus on Tech services	- Call to action slide: Public Private partnership -> omit for now. Assume audience is socially conscious millenials in NYC. Volunteer your time. 
-  
-  | Question/ Topic | Person #1 | Person #2 | Person # 3 |
- 
+  | Question/ Topic | Person #1 		| Person #2 							     		|
+  |Title	    | n/a 			| Possible Title: Optimizing resource availability to seniors in NYC 		| 
+  |Title	    | n/a 			| - SCR: Situation, Complication/ Conflict , Resolution
+- 							1st slide: set up story well 
+- 							2nd slide: remove the hierarchy b/c doesn't advance story. Could consider how it 							gets incorporate to the flow. Maybe put it at the end
+- 							New 2nd slide: find a graph on how seniors rate the different categories within 							NY.
+							3rd slide: senior tech literacy is low -> missing link on how nyc is becoming 								increasingly tech reliant, or seniors have complaints about aging in place | 
 
 
-1. Completeness of storyline and significance of call to action: 
-2. 
 
 
 # Revised Wireframes / storyboard
