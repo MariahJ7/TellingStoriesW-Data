@@ -2,7 +2,7 @@
 # Wireframes / storyboard
 I used Balsamiq to create each Wireframe and the overall Storyboard. Here is a rending of it. Any Slides that have been ommitted from the modified drafts due to criqtiques are labeled as such. 
 
-ARI INSERT WIREFRAME PDF YOU RECEIVED https://drive.google.com/file/d/1X9qInx29bvd1ezKmUGQ4NnP-LtFDQ7ST/view?usp=sharing
+ARI INSERT WIREFRAME PDF YOU RECEIVED <a href="https://drive.google.com/file/d/1X9qInx29bvd1ezKmUGQ4NnP-LtFDQ7ST/view?usp=sharing/"
 
 
 A larger graph currently featured in one of the wireframes within the storyboard. This was created in RAWGraphs using the data set from here: Welltower. (September 26, 2017). Most valued services for making life easier for elderly people in North America in 2017 [Graph]. In Statista. Retrieved November 25, 2019, from https://www-statista-com.proxy.library.cmu.edu/statistics/895216/valuable-services-features-for-seniors-north-america/ I will likely change the coloring when it is used in my final presentation.
