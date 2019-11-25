@@ -11,7 +11,7 @@ A larger graph currently featured in one of the wireframes within the storyboard
 
 Additional Graph made in Tableau that I intend on modifying for the final project: 
 
-<a href="https://drive.google.com/uc?export=view&id=1z-U9MtFigcDrRqzulkpN7DnWMLlFNHF7"><img src="https://drive.google.com/uc?export=view&id=1z-U9MtFigcDrRqzulkpN7DnWMLlFNHF7" style="width: 2000px; max-width: 400%; height: auto" title="Click for the larger version." />
+<a href="https://drive.google.com/uc?export=view&id=1z-U9MtFigcDrRqzulkpN7DnWMLlFNHF7"><img src="https://drive.google.com/uc?export=view&id=1z-U9MtFigcDrRqzulkpN7DnWMLlFNHF7" style="width: 900px; max-width: 400%; height: auto" title="Click for the larger version." />
 
 Data for this vizualization came from: https://data.ny.gov/Human-Services/Directory-of-Multi-Purpose-Senior-Centers/t4ba-giyx
 # User feedback on wireframes / storyboard
@@ -20,7 +20,7 @@ Interview Script:
 
 For this portion of the assignment, I interviewed my sister and boyfriend. The interviews focused on the following categories: 
 
- <a href="https://drive.google.com/uc?export=view&id=1EEKdTp6PBNV18LTfXC3Z7J8-3mPLVYpA"><img src="https://drive.google.com/uc?export=view&id=1EEKdTp6PBNV18LTfXC3Z7J8-3mPLVYpA" style="width: 2000px; max-width: 400%; height: auto" title="Click for the larger version." /> 
+<a href="https://drive.google.com/uc?export=view&id=1EEKdTp6PBNV18LTfXC3Z7J8-3mPLVYpA"><img src="https://drive.google.com/uc?export=view&id=1EEKdTp6PBNV18LTfXC3Z7J8-3mPLVYpA" style="width: 900px; max-width: 400%; height: auto" title="Click for the larger version." />
 
 # Revised Wireframes / storyboard
 This is my most up to date rending. Slides that have been omitted are at the end of the document with red X marks. 
