@@ -10,5 +10,8 @@ Interview Script:
 
 For this portion of the assignment, I interviewed my sister, my boyfriend and a classmate. Here are the results received: 
 
+1. Completeness of storyline and significance of call to action: 
+2. 
+
 
 # Revised Wireframes / storyboard
