@@ -20,7 +20,7 @@ Interview Script:
 
 For this portion of the assignment, I interviewed my sister and boyfriend. The interviews focused on the following categories: 
 
- ARI INSERT INTERVIEW PHOTO HERE 
+ <a href="https://drive.google.com/uc?export=view&id=1EEKdTp6PBNV18LTfXC3Z7J8-3mPLVYpA"><img src="https://drive.google.com/uc?export=view&id=1EEKdTp6PBNV18LTfXC3Z7J8-3mPLVYpA" style="width: 2000px; max-width: 400%; height: auto" title="Click for the larger version." /> 
 
 # Revised Wireframes / storyboard
 
