@@ -2,7 +2,7 @@
 # Wireframes / storyboard
 I used Balsamiq to create each Wireframe and the overall Storyboard. Here is my second rending of it. 
 
-<a href="https://drive.google.com/file/d/1X9qInx29bvd1ezKmUGQ4NnP-LtFDQ7ST/view">Second Draft</a>
+<a href="https://drive.google.com/file/d/1X9qInx29bvd1ezKmUGQ4NnP-LtFDQ7ST/view" target="_blank">Second Draft</a>
 
 
 A larger graph currently featured in one of the wireframes within the storyboard. This was created in RAWGraphs using the data set from here: Welltower. (September 26, 2017). Most valued services for making life easier for elderly people in North America in 2017 [Graph]. In Statista. Retrieved November 25, 2019, from https://www-statista-com.proxy.library.cmu.edu/statistics/895216/valuable-services-features-for-seniors-north-america/ I will likely change the coloring when it is used in my final presentation.
@@ -13,7 +13,7 @@ Additional Graph made in Tableau that I intend on modifying for the final projec
 
 <a href="https://drive.google.com/uc?export=view&id=1z-U9MtFigcDrRqzulkpN7DnWMLlFNHF7"><img src="https://drive.google.com/uc?export=view&id=1z-U9MtFigcDrRqzulkpN7DnWMLlFNHF7" style="width: 2000px; max-width: 400%; height: auto" title="Click for the larger version." />
 
-
+Data for this vizualization came from: https://data.ny.gov/Human-Services/Directory-of-Multi-Purpose-Senior-Centers/t4ba-giyx
 # User feedback on wireframes / storyboard
 
 Interview Script: 
@@ -25,4 +25,4 @@ For this portion of the assignment, I interviewed my sister and boyfriend. The i
 # Revised Wireframes / storyboard
 This is my most up to date rending. Slides that have been omitted are at the end of the document with red X marks. 
 
-<a href="https://drive.google.com/file/d/1JxbDNvtMhDgrKKmpOd5FwcYw_W_30qMe/view">Third Draft</a>
+<a href="https://drive.google.com/file/d/1JxbDNvtMhDgrKKmpOd5FwcYw_W_30qMe/view" target="_blank">Third Draft</a>
