@@ -6,4 +6,9 @@ A larger graph currently featured in one of the wireframes within the storyboard
 
 # User feedback on wireframes / storyboard
 
+Interview Script: 
+
+For this portion of the assignment, I interviewed my sister, my boyfriend and a classmate. Here are the results received: 
+
+
 # Revised Wireframes / storyboard
