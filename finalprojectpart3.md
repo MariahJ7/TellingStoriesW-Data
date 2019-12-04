@@ -7,7 +7,7 @@ Thinking back to [Part 1](/finalprojectdev.md) and [Part 2](/finalprojectpart2.m
 # Intended Audience 
 There are several audiences for the work I completed. Below I will go into more detail on several personas given inspiration from the following webpage: https://www.usability.gov/how-to-and-tools/methods/personas.html
 
-Persona A: Informed Milenial New Yorker
+## Persona A: Informed Milenial New Yorker
   Work level: Mid level professional
   Name: Alex
   Job titles and major responsibilities: Works as an account manager for media agency. Works with external clients from Fortune 500 companies.
