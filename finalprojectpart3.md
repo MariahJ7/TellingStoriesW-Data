@@ -8,7 +8,7 @@ Thinking back to [Part 1](/finalprojectdev.md) and [Part 2](/finalprojectpart2.m
 There are several audiences for the work I completed. Below I will go into more detail on several personas given inspiration from the following webpage: https://www.usability.gov/how-to-and-tools/methods/personas.html
 
 ## Persona A: Informed Milenial New Yorker
-  Work level: Mid level professional
+### Work level: Mid level professional
   Name: Alex
   Job titles and major responsibilities: Works as an account manager for media agency. Works with external clients from Fortune 500 companies.
   Demographics: 30 years old, Bachelor's degree, Caucasian, in a committed, monogomous relationship 
@@ -17,7 +17,7 @@ Their physical, social, and technological environment
 A quote that sums up what matters most to the persona as it relates to your site
 Casual pictures representing that user group
   
-Persona B: Aging Citizen within New York
+## Persona B: Aging Citizen within New York
 Persona C: Caregiver or relative to aging senior in New York
 Persona D: Public servant/ politician serving New York 
 
