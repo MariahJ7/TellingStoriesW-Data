@@ -35,13 +35,22 @@ A quote that sums up what matters most to the persona as it relates to your site
 ## Persona D: Public servant/ politician serving New York 
   Work level: Politician running for 
   Name: Albert
-  Job titles and major responsibilities: 
+  Job titles and major responsibilities: ADD CONTENT 
   Demographics: 
   The goals and tasks they are trying to complete using the site: Understand how to differentiate their platform, understand the community and identify opportunities.
 Their physical, social, and technological environment:  
 A quote that sums up what matters most to the persona as it relates to your site: 
 # Work Completed in Part 3
+## Overall steps took to develop the Shorthand Final Deliverable: 
 1. Built out a Shorthand page with navigation based on the sections identified in my Balsamiq storyboard from Part 2
 2. Developed content in order of the sections presented
 3. Added and/or modified overall sections if I felt that content was missing or needed to go in a different direction to tell the story 
-4. 
+  Step 3 was where the most work occurred. I was not only incorporating feedback that had been received from classmates during the feedback session but also from Part 2 where I had ideas in my storyboard that were not fully developed upon submission. While working in Shorthand, I continued to preview my story to ensure that it made sense as it was progressing. Here I added the section on why I was interested in the topic (section in which I feature how my grandmothers aged). I also took out some pages such as information on the cost of aging in place and how technology relates to that as well as information on technology adoption among senior citizens. 
+4. Added in data visualizations, refined them and sought additional data to support the story. 
+5. Changed the title as I realized the story was moving a slightly new direction 
+6. Developed a call to action after seeing the story flow through. 
+
+## Details on design decisions: 
+Cream background color - I wanted to find a color that complimented some of the colors that would be featured in photos of NYC.
+Colors within vizualizations - for the most part, I used blues and greens as well as gray to deprioritize content within a vizualization when there was an area I wanted to focus but did not feel what I was communicating was alarming in a negative way. The one graph in which I include red is within the graph depicting how NYC scored based on the AARP Livability Index. Within that, I use gray mostly but then use red as a call out to show the conflict in the story which happens to center on how to increase engagement for seniors in NYC. 
+Use of bold text - 
