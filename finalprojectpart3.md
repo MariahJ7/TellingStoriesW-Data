@@ -51,6 +51,6 @@ A quote that sums up what matters most to the persona as it relates to your site
 6. Developed a call to action after seeing the story flow through. 
 
 ## Details on design decisions: 
-Cream background color - I wanted to find a color that complimented some of the colors that would be featured in photos of NYC.
-Colors within vizualizations - for the most part, I used blues and greens as well as gray to deprioritize content within a vizualization when there was an area I wanted to focus but did not feel what I was communicating was alarming in a negative way. The one graph in which I include red is within the graph depicting how NYC scored based on the AARP Livability Index. Within that, I use gray mostly but then use red as a call out to show the conflict in the story which happens to center on how to increase engagement for seniors in NYC. 
-Use of bold text - 
+- Cream background color - I wanted to find a color that complimented some of the colors that would be featured in photos of NYC.
+- Colors within vizualizations - for the most part, I used blues and greens as well as gray to deprioritize content within a vizualization when there was an area I wanted to focus but did not feel what I was communicating was alarming in a negative way. The one graph in which I include red is within the graph depicting how NYC scored based on the AARP Livability Index. Within that, I use gray mostly but then use red as a call out to show the conflict in the story which happens to center on how to increase engagement for seniors in NYC. 
+- Use of bold text - 
