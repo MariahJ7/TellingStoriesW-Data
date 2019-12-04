@@ -41,3 +41,7 @@ A quote that sums up what matters most to the persona as it relates to your site
 Their physical, social, and technological environment:  
 A quote that sums up what matters most to the persona as it relates to your site: 
 # Work Completed in Part 3
+1. Built out a Shorthand page with navigation based on the sections identified in my Balsamiq storyboard from Part 2
+2. Developed content in order of the sections presented
+3. Added and/or modified overall sections if I felt that content was missing or needed to go in a different direction to tell the story 
+4. 
