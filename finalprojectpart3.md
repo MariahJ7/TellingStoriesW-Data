@@ -8,6 +8,7 @@ Thinking back to [Part 1](/finalprojectdev.md) and [Part 2](/finalprojectpart2.m
 There are several audiences for the work I completed. Below I will go into more detail on several personas given inspiration from the following webpage: https://www.usability.gov/how-to-and-tools/methods/personas.html
 
 ## Persona A: Informed Millennial New Yorker
+Appealing to this audience meant trying to communicate why this was relevant to them. I felt that bringing in my personal story and showing pictures of my grandmothers humanized the topic and would allow millennials to specifically relate this topic back to the lives of their grandparents. 
   - Work level: Mid level professional
   - Name: Alex
   - Job titles and major responsibilities: Works as an account manager for media agency. Works in client facing role with external clients from Fortune 500 companies.
