@@ -18,6 +18,7 @@ Appealing to this audience meant trying to communicate why this was relevant to 
 - A quote that sums up what matters most to the persona as it relates to your site: "I love NY but see inequality and lack of connection throughout. How can that be addressed for marginalized populations?"
   
 ## Persona B: Aging Citizen within New York
+Appealing to this audience meant bringing to life how this group feels. I did that by leveraging data from Statista and AARP which focused on what seniors need to be successful and what their preferences are as they age. 
   - Work level: Retired
   - Name: Mary
   - Job Title and major responsibilites: Ensure daily needs are met, remain in contact with family and friends to avoid loneliness, remain fiscally responsible.
@@ -26,6 +27,7 @@ Appealing to this audience meant trying to communicate why this was relevant to 
   - Their physical, social, and technological environment:
   - A quote that sums up what matters most to the persona as it relates to your site: "I've lived in NYC for most of my life so I couldn't imagine going anywhere else. The place has become harder to live in over time and technology has certainly changed the way we live. With the price of real estate being so high here, we should be using the infrastructure we have as best as possible."
 ## Persona C: Caregiver or relative to aging senior in New York
+To appeal to this group, I mention some of my family's concerns as they made decisions related to my grandmothers' late stage care. The concerns my family members would relate to this group. As well, I introduced a solution to address an issue which is appealing to anyone who wants to act in the best interest of someone he or she cares about. 
    - Work level: Senior level professional
   - Name: Fred
   - Job titles and major responsibilities: Works as a partner as part of a law firm. Appears in court.
@@ -34,13 +36,13 @@ Appealing to this audience meant trying to communicate why this was relevant to 
 - Their physical, social, and technological environment: Live in a house in NJ that has good public schools and good access to Manhattan.  Busy during the week but spends time with family and attends community and/or friends gatherings on weekends when time permits. 
 - A quote that sums up what matters most to the persona as it relates to your site: "I'd prefer my mom aged elsewhere but if she is to be in NYC, I want to ensure she has what she needs to live happily and healthy. Technology is not a substitute for human connection so there needs to be a way that she can connect with people regularly at a location that is accessible and safe." 
 ## Persona D: Public servant/ politician serving New York 
-  - Work level: Politician running for 
+  - Work level: Politician running for local office. 
  - Name: Albert
-  - Job titles and major responsibilities: ADD CONTENT 
-  - Demographics: 
-  - The goals and tasks they are trying to complete using the site: Understand how to differentiate their platform, understand the community and identify opportunities.
-- Their physical, social, and technological environment:  
-- A quote that sums up what matters most to the persona as it relates to your site: 
+  - Job titles and major responsibilities: Long experience working in city government in NYC. 
+  - Demographics: 40 years old, MPA, not Caucasian, single, has close relationships within the community and among family and friends. 
+  - The goals and tasks they are trying to complete using the site: Understand how to differentiate his platform, understand the community and identify opportunities for betterment.
+- Their physical, social, and technological environment:  Albert does a lot of field work and is constantly on the go meeting people across the boroughs to get his name and platform out. He is plugged in tech wise, committed to helping people and focused on reducing disparities. 
+- A quote that sums up what matters most to the persona as it relates to your site: "NY has great potential to be the best city in the world for all but at this time, we are falling short in serving our seniors. Initiatives that can have immediate impact for a good value are ones I stand by."
 # Work Completed in Part 3
 ## Overall steps took to develop the Shorthand Final Deliverable: 
 1. Built out a Shorthand page with navigation based on the sections identified in my Balsamiq storyboard from Part 2
@@ -55,3 +57,5 @@ Appealing to this audience meant trying to communicate why this was relevant to 
 - Cream background color - I wanted to find a color that complimented some of the colors that would be featured in photos of NYC.
 - Colors within vizualizations - for the most part, I used blues and greens as well as gray to deprioritize content within a vizualization when there was an area I wanted to focus but did not feel what I was communicating was alarming in a negative way. The one graph in which I include red is within the graph depicting how NYC scored based on the AARP Livability Index. Within that, I use gray mostly but then use red as a call out to show the conflict in the story which happens to center on how to increase engagement for seniors in NYC. 
 - Use of bold text - I used bold text within paraphaphs throughout the presentation to call out important facts that really advanced the story. These were points I wanted to highlight and which togetehr share the high level story I am trying to tell. In reality, they became the points I mentioned during the final presentation in class. 
+# Lessons Learned
+I expected the story I wanted to tell would be much easier to convey than it was. Due to not finding data to support my story, I had to change course many times. Rather than building up a narrative and trying to fit data into it, it would be better to focus on the topic of interest and what data there is around it and then make sense of how to craft a story. I learned a great deal from this experience about the creative process, the importance of feedback, creating a meaningful sequence when introducing data, and lastly, how to build a  compelling narrative that can be substantiated through data. 
