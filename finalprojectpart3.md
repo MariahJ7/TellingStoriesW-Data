@@ -60,3 +60,5 @@ To appeal to this group, I mention some of my family's concerns as they made dec
 # Lessons Learned
 I expected the story I wanted to tell would be much easier to convey than it was. Due to not finding data to support my story, I had to change course many times. Rather than building up a narrative and trying to fit data into it, it would be better to focus on the topic of interest and what data there is around it and then make sense of how to craft a story. I learned a great deal from this experience about the creative process, the importance of feedback, creating a meaningful sequence when introducing data, and lastly, how to build a  compelling narrative that can be substantiated through data. 
 # References
+- Images: 
+- Data for graphs: 
